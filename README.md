@@ -19,6 +19,7 @@ Steps to run the TwitterCloneApp-
 2. In the Command Prompt, open the project and run the commands
 
 cd TwitterCloneApp
+
 npm start
  
 
