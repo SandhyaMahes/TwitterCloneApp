@@ -43,7 +43,7 @@ export default class Moments extends Component {
       </Body>
       <Fab style={{ backgroundColor: '#00aced', marginBottom: 10 }} position="bottomRight" >
   
-         <MaterialIcon name='flash-on' style={{color:'white'}}/>
+         <MaterialIcon name='flash-on' style={{color:'#fff'}}/>
        </Fab>
       
       </Container>
