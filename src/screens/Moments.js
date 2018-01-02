@@ -37,8 +37,8 @@ export default class Moments extends Component {
         <Body>
          <View style={{flex:1,justifyContent:'center'}}>
            <Text style={{fontSize:19,fontWeight:'bold'}}>                               No Moments{"\n"}</Text>
-           <Text  style={{color: 'grey',fontSize:15}}>   No Moments created yet. When you do,                               
-                   you'll find them here.</Text>
+           <Text  style={{color: 'grey',fontSize:15}}>   No Moments created yet When you do                               
+                   you will find them here.</Text>
            </View>
       </Body>
       <Fab style={{ backgroundColor: '#00aced', marginBottom: 10 }} position="bottomRight" >
