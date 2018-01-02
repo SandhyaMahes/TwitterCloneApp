@@ -16,9 +16,10 @@ Check out https://facebook.github.io/react-native/docs/getting-started.html for 
 
 Steps to run the TwitterCloneApp-
 1. Clone the project
-2. In the Command Prompt, open the project
-     cd TwitterCloneApp
-     npm start
+2. In the Command Prompt, open the project and run the commands
+
+cd TwitterCloneApp
+npm start
  
 
 
